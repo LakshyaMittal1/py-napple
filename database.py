@@ -20,4 +20,3 @@ def get_db():
         yield db
 
 print("Prince Jain")
-#papa databse ka

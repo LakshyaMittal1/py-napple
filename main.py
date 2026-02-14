@@ -7,8 +7,8 @@ from fastapi.responses import JSONResponse
 from starlette.exceptions import HTTPException as StarletteHTTPException
 
 from schemas import PostCreate, PostResponse
-
-
+# we are importing all the modules used in the project
+# we are checking merge conflict
 app = FastAPI()
 
 
