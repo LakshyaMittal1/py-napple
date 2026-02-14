@@ -1,0 +1,4 @@
+## Tech Stack
+- Python
+- FastAPI
+- Uvicorn
